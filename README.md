@@ -19,30 +19,31 @@ The system uses the **least squares method** to determine optimal functions and 
 ---
 
 ## Project Structure
+
+```
 Ideal-Function-Python-Assignment
 │
-├── src/
-│ ├── main.py
-│ ├── exceptions.py
-│ └── tests.py
-
-├── data/
-│ ├── train.csv
-│ ├── ideal.csv
-│ └── test.csv
-
-├── results/
-│ ├── functions.db
-│ └── function_mapping.html
-
-├── report/
-│ └── Python_Assignment_Report.pdf
-
+├── src
+│   ├── main.py
+│   ├── exceptions.py
+│   └── tests.py
+│
+├── data
+│   ├── train.csv
+│   ├── ideal.csv
+│   └── test.csv
+│
+├── results
+│   ├── functions.db
+│   └── function_mapping.html
+│
+├── report
+│   └── Python_Assignment_Report.pdf
+│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
----
+```
 
 ## Technologies Used
 
