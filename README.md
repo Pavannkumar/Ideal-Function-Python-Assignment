@@ -36,6 +36,10 @@ Ideal-Function-Python-Assignment
 ├── results
 │   ├── functions.db
 │   └── function_mapping.html
+├── docs/
+│   ├── visualization.png
+│   ├── pipeline.png
+│   └── architecture.png
 │
 ├── README.md
 ├── requirements.txt
