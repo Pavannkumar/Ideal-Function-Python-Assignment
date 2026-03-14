@@ -37,9 +37,6 @@ Ideal-Function-Python-Assignment
 │   ├── functions.db
 │   └── function_mapping.html
 │
-├── report
-│   └── Python_Assignment_Report.pdf
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
